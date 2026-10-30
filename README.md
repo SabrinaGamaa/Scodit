@@ -4,6 +4,12 @@ Sistema web desenvolvido com Django para organizar e acompanhar processos de sep
 
 O Scodit tem como objetivo centralizar informações, facilitar a distribuição de atividades e oferecer visibilidade sobre o andamento das separações.
 
+## Demonstração online
+
+**[Acessar o Scodit](https://sabrinagama.alwaysdata.net/)**
+
+Versão demonstrativa com dados fictícios e informações anonimizadas, disponível para explorar as funcionalidades do sistema.
+
 ## Funcionalidades
 
 - **Gestão de pedidos:** cadastro e acompanhamento dos pedidos de separação.
@@ -45,6 +51,12 @@ Este repositório apresenta a documentação e a descrição do projeto. O códi
 A web application developed with Django to organize and monitor order-picking processes in logistics operations.
 
 Scodit aims to centralize information, simplify task assignment, and provide visibility into the progress of picking activities.
+
+## Live Demo
+
+**[Access Scodit](https://sabrinagama.alwaysdata.net/)**
+
+A demonstration version with fictional data and anonymized information, available for exploring the system's features.
 
 ## Features
 
